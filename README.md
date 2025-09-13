@@ -92,3 +92,5 @@ For correct operation, it is recommended to create several spawn points of the t
 
     OnArmoredTrainEventStart
     OnArmoredTrainEventStop
+
+<img width="2560" height="1440" alt="train7" src="https://github.com/user-attachments/assets/289d0161-c7d0-4aae-be53-62c8423ccc27" />
