@@ -12,6 +12,8 @@ You can also disable the customization of certain wagons or change the customiza
 
 **Halloween Update**
 
+![train3](https://github.com/user-attachments/assets/480a08b8-e008-4b5e-99d3-9407644f0c75)
+
 Have you already prepared your server for Halloween?
 On the eve of the Halloween Rust update, I have prepared for customization of all armored train cars.
 After installing the update, customization will be automatically applied to all cars in the configuration of the armored train. To disable this, make the "Customization preset" parameter empty in the config. 
