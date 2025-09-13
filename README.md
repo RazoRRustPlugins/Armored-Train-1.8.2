@@ -1,8 +1,11 @@
-<img width="1920" height="1080" alt="train(1)" src="https://github.com/user-attachments/assets/40bff991-5d74-42d7-97a2-41b2e18e6e45" />
-
 **About Armored Train**
 
+<img width="1920" height="1080" alt="train(1)" src="https://github.com/user-attachments/assets/40bff991-5d74-42d7-97a2-41b2e18e6e45" />
+
 **New Year Update**
+
+![train5](https://github.com/user-attachments/assets/d4b20837-9d11-424b-997a-e347206231be)
+
 
 The  New Year  is coming and I have prepared for you a new preset customization for the train!After installing the update, customization will be automatically applied to all cars in the configuration of the armored train. To disable this, make the "Customization preset" parameter empty in the config.
 You can also disable the customization of certain wagons or change the customization of the NPCs in the file oxide/data/ArmoredTrain/NewYear 
